@@ -1,0 +1,10 @@
+Descriptive Statistics Results:
+Total Initial Count: 400
+Removed a total of: 0 elements
+Mean: 242.32
+Median: 239.5
+Mode: 170.0, 393.0
+Variance: 21099.917599999997
+Standard Deviation: 145.25810683056557
+
+Elapsed Time: 0.013665914535522461 s
