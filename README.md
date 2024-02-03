@@ -28,4 +28,4 @@ This repository contains a folder structure to organize the results (*on a txt f
 
 Additionally, a video has been included. This video demonstrates the execution of each program and provides a detailed explanation of the logic behind their implementation.
 
-- YouTube Link: TBD
+- YouTube Link: https://youtube.com/playlist?list=PLh9ZN_u-T-MICikXa52ghEoTA3H_e9Fvn&si=WHxfLbFZmCsKvDmw
